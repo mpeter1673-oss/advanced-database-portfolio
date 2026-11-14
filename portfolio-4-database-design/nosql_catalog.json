@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "PROD-ELEC-001",
+    "sku": "SKU-00001",
+    "name": "Samsung Galaxy A55 5G",
+    "category": "Electronics",
+    "price_ngn": 645000,
+    "specifications": {
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery_mah": 5000,
+      "network": "5G Dual SIM"
+    },
+    "tags": ["smartphone", "android", "5g"],
+    "reviews": [
+      { "customer": "Chinedu O.", "rating": 5, "comment": "Battery lasts two full days!" },
+      { "customer": "Amina B.", "rating": 4, "comment": "Fast delivery to Abuja." }
+    ]
+  },
+  {
+    "_id": "PROD-FASH-002",
+    "sku": "SKU-00002",
+    "name": "Classic Ankara Corporate Shirt",
+    "category": "Fashion",
+    "price_ngn": 28500,
+    "specifications": {
+      "material": "100% Cotton Wax Print",
+      "available_sizes": ["M", "L", "XL", "XXL"],
+      "fit": "Slim Fit",
+      "wash_care": "Cold hand wash"
+    },
+    "tags": ["menswear", "ankara", "office"],
+    "reviews": [
+      { "customer": "Tunde K.", "rating": 5, "comment": "Tailoring and fabric quality are top notch." }
+    ]
+  }
+]
+
+
+
